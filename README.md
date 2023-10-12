@@ -2,6 +2,8 @@
 
 **_Elaborado por:_** Israel José Huallpara Mencias
 
+**_Código fuente en:_** (https://github.com/Brb-code/javaBasic)
+
 #### Desarrolle el código para resolver los siguientes enunciados:
 
 1. Escriba un programa en el que se declaren las variables enteras x e y. Asígnales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.
