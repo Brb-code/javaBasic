@@ -2,7 +2,7 @@
 
 **_Elaborado por:_** Israel José Huallpara Mencias
 
-**_Código fuente en:_** (https://github.com/Brb-code/javaBasic)
+**_Código fuente en:_** (https://github.com/Brb-code/javaBasic/tree/poo)
 
 #### PRÁCTICA: POO – Estructuras de Datos
 
